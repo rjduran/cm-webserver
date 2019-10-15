@@ -4,7 +4,7 @@ A basic node.js webserver to test on Raspberry Pi. Based on [W3 Schools Tutorial
 
 To use:
 
-    git clone https://github.com/rjduran/cm-webserver.git)
+    git clone https://github.com/rjduran/cm-webserver.git
     cd cm-webserver
     node server.js
 
